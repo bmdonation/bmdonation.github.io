@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 비엠장학기부회
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+author: 박주형
+description: 비영리법인 비엠장학기부회, 재능기부특강
+email: donation@bmworks.kr
+phone: +82 02-338-5881
+address: 서울특별시 영등포구 국회대로 612, 210호 비엠코퍼레이션서울특별시 영등포구 국회대로 612, 210호 비엠코퍼레이션
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 인재 최우선 주의 <br> (주)비엠그룹 산하 <br> 비영리법인 비엠장학기부회 입니다.
 
 social:
 - {icon: "ti-facebook", link: "#"}
