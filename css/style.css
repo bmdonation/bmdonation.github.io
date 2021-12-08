@@ -1219,7 +1219,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 2.    Call to action
 3.    Features
 4.    Facts
-5.    Services
+5.    서비스
 6.   Project area
 7.   Content area
 8.   Testimonial
@@ -1227,7 +1227,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 10.   News section
 11.   Footer
 12.   Sub Pages
-13.   Contact Us
+13.   연락
 14.   News Listing
 15.   News Single
 16.   Sidebar
@@ -1660,14 +1660,14 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   font-size: 20px;
 }
 
-/* Tab services */
-.featured-tab.tab-services .nav-tabs > li > a {
+/* Tab 서비스 */
+.featured-tab.tab-서비스 .nav-tabs > li > a {
   font-size: 14px;
   padding: 0 21px;
   text-transform: capitalize;
 }
 
-.featured-tab.tab-services .nav.nav-tabs {
+.featured-tab.tab-서비스 .nav.nav-tabs {
   margin-bottom: 20px;
 }
 
@@ -1698,7 +1698,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   margin: 0;
 }
 
-/* Services
+/* 서비스
 ================================================== */
 /* Service box */
 .ts-service-box .ts-service-icon i {
@@ -2459,7 +2459,7 @@ img.testimonial-thumb {
   border-left: 3px solid #ffb600;
 }
 
-/* Footer about us */
+/* Footer 비엠장학기부회란?? */
 .footer-logo {
   margin-bottom: 25px;
   max-height: 35px;
@@ -2671,7 +2671,7 @@ img.testimonial-thumb {
   color: #fff;
 }
 
-/*-- About us page --*/
+/*-- 비엠장학기부회란?? page --*/
 /* Slider pages */
 .page-slider .carousel-control {
   position: absolute;
@@ -2970,7 +2970,7 @@ img.testimonial-thumb {
   background: #ff9800;
 }
 
-/* Contact Us
+/* 연락
 ================================================== */
 .map {
   height: 450px;
